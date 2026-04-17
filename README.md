@@ -1,3 +1,6 @@
 # murali_python
 
 author: Muralidharan
+
+Practice Hackerrank to improve logic / debugging / syntax of the language:
+https://www.hackerrank.com/contests/fundamentals-of-programming/challenges
