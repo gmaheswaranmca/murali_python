@@ -1,0 +1,54 @@
+1. print text 
+2. print num
+3. input text 
+4. input num (int)
+5. input float num
+6. conditional statement 
+    if..elif..else 
+    syntax:
+    if cond:
+        statementsIf
+    [elif cond2:
+        statementsElIfCond2
+    ...
+    [else:
+        statementElse]]
+    example 1: age classification
+
+7. while loop
+    syntax
+    while cond:
+        statment1
+        statemen2
+        etc 
+8. for each loop 
+    syntax:
+    for e in iterable:
+        # process for each e, e is each item in iterable 
+    example:
+        nums = [20,25,10,15]
+        max = float('-inf')
+        for num in nums:
+            if num > max:
+                max = num 
+            #
+        #
+        print(max)
+    example:
+        salaries = [20,25,10,15]
+        max = float('-inf')
+        for salary in salaries:
+            if salary > max:
+                max = salary 
+            #
+        #
+        print(max)
+    example:
+        salaries = [20,25,10,15]
+        max = float('-inf')
+        for salary in salaries:
+            if salary > max:
+                max = salary 
+            #
+        #
+        print(max)
