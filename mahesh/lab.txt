@@ -1,0 +1,25 @@
+17/04
+1. print hello
+2. print hello name 
+3. find sum of 3 nums 
+4. convert temp in celcius to temp in forenheit 
+5. age categorization 
+6. employee net salary calcuation 
+7. repeat age categorization 
+   repeat lab 6
+---
+20/4
+
+8. how to write function for area of circle for given radius
+9. print 2 digit precision for floating point number without round off 
+10. find max of 2 nums, 3 nums, 4 nums, list of nums 
+    straight method, 
+    optimized method 
+        - without loop 
+        - with loop 
+
+        0 as initial max
+        Or
+        -inf as initial max 
+11. prime number checking for given number 
+
