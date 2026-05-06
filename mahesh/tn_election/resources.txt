@@ -1,0 +1,20 @@
+Sushanth Thangamani
+
+https://github.com/Data-Analytics/data-analytics.github.io
+
+data visualisation,to represent a data in a visual format
+    Examples
+    http://data-analytics.github.io/
+
+
+Data visualistion trainer
+    https://learn.urbanpro.com/sushanth-thangamani#profile
+        d3.js, rapheal,git,mercurial.nvd3,c3d3
+        5 years of experience in data visualization , data analytics and data mining
+        recently done an Election Analytics
+        for the indian state election(Tamil Nadu)
+        http://data-analytics.github.io/Election_Data/tamil_nadu.html
+
+linked in profile
+    https://www.linkedin.com/in/sushanthece/
+    
